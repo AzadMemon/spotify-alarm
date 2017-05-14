@@ -43,10 +43,14 @@
             android:textOff="S"
             android:textOn="S"
             android:layout_weight="1"
-            android:background="@android:color/transparent"
-            android:minHeight="24dp"
+            android:background="@drawable/toggle_background_state_selector"
+            android:minHeight="36dp"
             android:layout_width="0dp"
-            android:textSize="16sp"/>
+            android:textSize="16sp"
+            android:maxWidth="36dp"
+            android:minWidth="36dp"
+            android:width="36dp"
+            />
 
         <ToggleButton
             android:text="ToggleButton"
@@ -55,10 +59,14 @@
             android:textOff="M"
             android:textOn="M"
             android:layout_weight="1"
-            android:background="@android:color/transparent"
-            android:minHeight="24dp"
+            android:background="@drawable/toggle_background_state_selector"
+            android:minHeight="36dp"
             android:layout_width="0dp"
-            android:textSize="16sp"/>
+            android:textSize="16sp"
+            android:maxWidth="36dp"
+            android:minWidth="36dp"
+            android:width="36dp"
+            android:layout_marginLeft="4dp"/>
 
         <ToggleButton
             android:text="ToggleButton"
@@ -67,10 +75,14 @@
             android:textOff="T"
             android:textOn="T"
             android:layout_weight="1"
-            android:background="@android:color/transparent"
-            android:minHeight="24dp"
+            android:background="@drawable/toggle_background_state_selector"
+            android:minHeight="36dp"
             android:layout_width="0dp"
-            android:textSize="16sp"/>
+            android:textSize="16sp"
+            android:maxWidth="36dp"
+            android:minWidth="36dp"
+            android:width="36dp"
+            android:layout_marginLeft="4dp"/>
 
         <ToggleButton
             android:text="ToggleButton"
@@ -79,10 +91,14 @@
             android:textOff="W"
             android:textOn="w"
             android:layout_weight="1"
-            android:background="@android:color/transparent"
-            android:minHeight="24dp"
+            android:background="@drawable/toggle_background_state_selector"
+            android:minHeight="36dp"
             android:layout_width="0dp"
-            android:textSize="16sp"/>
+            android:textSize="16sp"
+            android:maxWidth="36dp"
+            android:minWidth="36dp"
+            android:width="36dp"
+            android:layout_marginLeft="4dp"/>
 
         <ToggleButton
             android:text="ToggleButton"
@@ -91,10 +107,14 @@
             android:textOff="T"
             android:textOn="t"
             android:layout_weight="1"
-            android:background="@android:color/transparent"
-            android:minHeight="24dp"
+            android:background="@drawable/toggle_background_state_selector"
+            android:minHeight="36dp"
             android:layout_width="0dp"
-            android:textSize="16sp"/>
+            android:textSize="16sp"
+            android:maxWidth="36dp"
+            android:minWidth="36dp"
+            android:width="36dp"
+            android:layout_marginLeft="4dp"/>
 
         <ToggleButton
             android:text="ToggleButton"
@@ -103,10 +123,14 @@
             android:textOff="F"
             android:textOn="F"
             android:layout_weight="1"
-            android:background="@android:color/transparent"
-            android:minHeight="24dp"
+            android:background="@drawable/toggle_background_state_selector"
+            android:minHeight="36dp"
             android:layout_width="0dp"
-            android:textSize="16sp"/>
+            android:textSize="16sp"
+            android:maxWidth="36dp"
+            android:minWidth="36dp"
+            android:width="36dp"
+            android:layout_marginLeft="4dp"/>
 
         <ToggleButton
             android:text="ToggleButton"
@@ -115,10 +139,14 @@
             android:textOff="S"
             android:textOn="S"
             android:layout_weight="1"
-            android:background="@android:color/transparent"
-            android:minHeight="24dp"
+            android:background="@drawable/toggle_background_state_selector"
+            android:minHeight="36dp"
             android:layout_width="0dp"
-            android:textSize="16sp"/>
+            android:textSize="16sp"
+            android:maxWidth="36dp"
+            android:minWidth="36dp"
+            android:width="36dp"
+            android:layout_marginLeft="4dp"/>
 
     </TableRow>
 

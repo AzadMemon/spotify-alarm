@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Spotify Alarm</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="group_tag">group</string>
+    <string name="action_search">Search...</string>
+    <string name="cover_art_description">Cover Art Description</string>
+    <string name="day_tag">day</string>
+    <string name="search_error">There was a problem. Please try again.</string>
+    <string name="no_results">No Results</string>
+    <string name="preference_file_name">preference_file</string>
+    <string name="pick_a_song">Pick a song</string>
 </resources>
